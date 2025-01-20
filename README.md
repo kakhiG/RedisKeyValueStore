@@ -13,5 +13,5 @@
 The application seeds test data on startup including:
 - Users (user1, user2, user3)
 - Products (product1, product2, product3)
-- Temporary values (temp:1, temp:2)
+- Temporary values (temp1, temp2)
 - Counter (counter:visits)
